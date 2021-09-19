@@ -31,12 +31,12 @@ class Var(object):
 class Tr(object):
 
     START_TEXT = """
-👋 Hi ! {} Welcome To @PyLyricsBot !
+👋 Hi ! {} Welcome To @miztyrobot !
 
-PyLyrics Is An [Open-Source](https://github.com/AmineSoukara/PyLyricsBot/fork) Bot That Can Help You Get Song Lyrics
+PyLyrics Is A Bot That Can Help You Get Song Lyrics
 """
 
-    ABOUT_TEXT = """🤖 **My Name:** [Py Lyrics](t.me/PyLyricsBot)
+    ABOUT_TEXT = """🤖 **My Name:** [Miz Lyrics](t.me/miztyrobot)
 
 📝 **Language:** [Python 3](https://www.python.org)
 
@@ -44,21 +44,21 @@ PyLyrics Is An [Open-Source](https://github.com/AmineSoukara/PyLyricsBot/fork) B
 
 📡 **Hosted On:** [Heroku](heroku.com)
 
-👨‍💻 **Developer:** [Amine Soukara](t.me/AmineSoukara)
+👨‍💻 **Developer:** [This Kid](t.me/kidhub)
 
-💡 **Source Code:** [Github](https://github.com/AmineSoukara/PyLyricsBot/fork)
+💡 **Mush World:** [Magical](https://t.me/magiclmush)
 
-👥 **Support Group:** [Damien Help](https://t.me/DamienHelp)
+👥 **Support Group:** [Kid Support](https://t.me/tzkid)
 
-📢 **Updates Channel:** [Damien Soukara](https://t.me/DamienSoukara)
+📢 **Updates Channel:** [Kid Updates](https://t.me/kidbots)
 
 
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
+❤ [Kid](https://t.me/kidhub) (Hub)
 """
 
     HELP_TEXT = """💡 Just Send Me The Name Of The Song.  That's it
 
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
+❤ [Kid](https://t.me/kidhub) (Hub)
 """
 
     ERR_TEXT = "⚠️ Genius API Not Found"

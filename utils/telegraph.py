@@ -4,8 +4,8 @@ from html_telegraph_poster import TelegraphPoster
 def post_to_telegraph(title, html_format_content):
 
     post_client = TelegraphPoster(use_api=True)
-    auth_name = "@PyLyricsBot"
-    bish = "https://t.me/PyLyricsBot"
+    auth_name = "@miztyrobot"
+    bish = "https://t.me/miztyrobot"
     post_client.create_api_token(auth_name)
     try:
         post_page = post_client.post(
@@ -15,4 +15,4 @@ def post_to_telegraph(title, html_format_content):
             text=html_format_content)
         return post_page["url"]
     except BaseException:
-        return "t.me/PyLyricsBot"
+        return "t.me/miztyrobot"

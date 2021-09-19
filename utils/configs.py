@@ -33,7 +33,7 @@ class Tr(object):
     START_TEXT = """
 👋 Hi ! {} Welcome To @miztyrobot !
 
-PyLyrics Is A Bot That Can Help You Get Song Lyrics
+MizLyrics Is A Bot That Can Help You Get Song Lyrics
 """
 
     ABOUT_TEXT = """🤖 **My Name:** [Miz Lyrics](t.me/miztyrobot)

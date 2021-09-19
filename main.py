@@ -89,7 +89,7 @@ async def cdata(c, q):
 
         test = f"""<p align="center"><a href="#"><img src="{r.song_art_image_url}" width="250"></a></p>"""
 
-        final = test + f"{lyrics}\n-\n📜 From : @PyLyricsBot"
+        final = test + f"{lyrics}\n-\n📜 From : @miztyrobot"
         song_title = r.title
         song_artist = r.artist.replace("&", "ft")
         name = f"{song_title} {song_artist}"
